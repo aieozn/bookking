@@ -1,0 +1,63 @@
+{% extends "books/website.html" %}
+{% load static %}
+
+{% block extras %}
+
+{% csrf_token %}
+<script type="text/javascript">
+// using jQuery
+var csrftoken = jQuery("[name=csrfmiddlewaretoken]").val();
+</script>
+<!-- PROGRESS BAR -->
+<link rel="stylesheet" href="{% static 'style/loading-bar.css' %}">
+<script src="{% static 'js/loading-bar.js' %}"></script>
+<script src="{% static 'js/search.js' %}"></script>
+
+<link rel="stylesheet" href="{% static 'style/search.css' %}">
+
+
+<!-- SELECT -->
+<link rel="stylesheet" href="{% static 'style/blue.css' %}">
+<script src="{% static 'js/icheck.js' %}"></script>
+
+<script>
+    $(document).ready(function(){
+        $('input').iCheck({
+        checkboxClass: 'icheckbox_square',
+        radioClass: 'iradio_square-blue',
+        increaseArea: '20%' // optional
+        });
+    });
+</script>
+{% endblock %}
+
+
+{% block main %}
+<h1>Find new books</h1>
+<p id="keywords" onclick="clearStatus()" contenteditable="true" placeholder="Keywords"></p>     
+
+
+<div class="row w-100 p-0 m-0">
+    <h3 class="option col-lg-2">Criteria: </h3>
+    <p class="col-lg-2 option"><input type="radio" class="intitle" name="iCheck" checked> Title</p>
+    <p class="col-lg-2 option"><input type="radio" class="inauthor" name="iCheck"> Author</p>
+    <p class="col-lg-2 option"><input type="radio" class="text" name="iCheck"> Text</p>
+    
+    <div class="searchButton col-lg-4" onclick="startSearch()">
+        Search
+    </div>
+</div>
+
+<div id="results">
+    <h2>15 books uploaded</h2>
+    <a href="#">
+        <div id="comaback" class="searchButton checkButton col-lg-4 offset-lg-4">
+            Check
+        </div>
+    </a>
+</div>
+<div id="processingStatus">
+<h2>35 books found. Loading.</h2>
+<div id="progress" class="ldBar" data-value="0"style="width:100%;height:90px" data-stroke="data:ldbar/res,gradient(0,1,#3fa0f4,#9b42f4)"></div>
+</div>
+{% endblock %}

@@ -1,0 +1,1136 @@
+{
+    "items": [
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=9-tcAAAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "1AT51N7iRpI",
+            "id": "9-tcAAAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/9-tcAAAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Bo\u017cena Urbaniak-Czajka"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/W%C5%82asny_ko%C5%84.html?hl=&id=9-tcAAAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=9-tcAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=9-tcAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "industryIdentifiers": [
+                    {
+                        "identifier": "8385038906",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788385038900",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=9-tcAAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 158,
+                "previewLink": "http://books.google.pl/books?id=9-tcAAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=41&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "2003",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "W\u0142asny ko\u0144"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=1T_avQEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "O7ZVpvmpKFk",
+            "id": "1T_avQEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/1T_avQEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Ula Kowalczuk"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Alfabetyczny_zbi%C3%B3r_300_konizm%C3%B3w_czyli.html?hl=&id=1T_avQEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "8395083106",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788395083105",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=1T_avQEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "pl",
+                "maturityRating": "NOT_MATURE",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "previewLink": "http://books.google.pl/books?id=1T_avQEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=42&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "2018",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "subtitle": "A-K",
+                "title": "Alfabetyczny zbi\u00f3r 300 konizm\u00f3w czyli Ko\u0144 jaki jest, ka\u017cdy widzi"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=o6idGwAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "KmW/AuXp6Dw",
+            "id": "o6idGwAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/o6idGwAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Clive Staples Lewis",
+                    "Pauline Baynes",
+                    "Andrzej Polkowski"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Opowie%C5%9Bci_z_Narnii_Srebrne_krzes%C5%82o_Ko.html?hl=&id=o6idGwAACAAJ",
+                "categories": [
+                    "Fantasy"
+                ],
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "8371292260",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788371292262",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=o6idGwAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "pl",
+                "maturityRating": "NOT_MATURE",
+                "previewLink": "http://books.google.pl/books?id=o6idGwAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=43&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1996",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Opowie\u015bci z Narnii: Srebrne krzes\u0142o ; Ko\u0144 i jego ch\u0142opiec ; Siostrzeniec czarodzieja ; Ostatnia bitwa"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=ZPQSOgAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "tWvOAEKUBYQ",
+            "id": "ZPQSOgAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZPQSOgAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Christine Lange"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84.html?hl=&id=ZPQSOgAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZPQSOgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZPQSOgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "industryIdentifiers": [
+                    {
+                        "identifier": "8311110212",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788311110212",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=ZPQSOgAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 141,
+                "previewLink": "http://books.google.pl/books?id=ZPQSOgAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=44&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "2008",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "subtitle": "dobre rady i wskaz\u00f3wki",
+                "title": "Ko\u0144"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=qvGAMwEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "WVI4sC8DxvM",
+            "id": "qvGAMwEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qvGAMwEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Stanis\u0142aw Wadowski"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_Lidzbarski_i_jego_grupy_krwi.html?hl=&id=qvGAMwEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:804322618",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=qvGAMwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "pl",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 168,
+                "previewLink": "http://books.google.pl/books?id=qvGAMwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=45&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1964",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Ko\u0144 Lidzbarski i jego grupy krwi"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=RPkqGwAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "dTjUUuv8/9E",
+            "id": "RPkqGwAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/RPkqGwAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "canonicalVolumeLink": "https://books.google.com/books/about/Koralowy_ko%C5%84.html?hl=&id=RPkqGwAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:496767999",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=RPkqGwAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "pl",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 259,
+                "previewLink": "http://books.google.pl/books?id=RPkqGwAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=46&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1968",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "subtitle": "opowiadania kuba\u0144skie",
+                "title": "Koralowy ko\u0144"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=Bp2OmwEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "CkLEe9y18UA",
+            "id": "Bp2OmwEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Bp2OmwEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Edward Skorkowski"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Rasy_arabskie_a_ko%C5%84_turkme%C5%84ski.html?hl=&id=Bp2OmwEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:836735370",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=Bp2OmwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 15,
+                "previewLink": "http://books.google.pl/books?id=Bp2OmwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=47&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1947",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Rasy arabskie a ko\u0144 turkme\u0144ski"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=6533twEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "YlwR2Iwb8jQ",
+            "id": "6533twEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/6533twEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "J\u00f3zef Ryszkiewicz"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Zb%C5%82%C4%85kany_ko%C5%84.html?hl=&id=6533twEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:1036594034",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=6533twEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "previewLink": "http://books.google.pl/books?id=6533twEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=48&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1933",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Zb\u0142\u0105kany ko\u0144"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=XrRKxAEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "blxOAj6Z5hw",
+            "id": "XrRKxAEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/XrRKxAEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Eugeniusz Ma\u0142aczewski"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_na_wzg%C3%B3rzu.html?hl=&id=XrRKxAEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:490356260",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=XrRKxAEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 259,
+                "previewLink": "http://books.google.pl/books?id=XrRKxAEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=49&source=gbs_api",
+                "printType": "BOOK",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "subtitle": "wielka bitwa narod\u00f3w..",
+                "title": "Ko\u0144 na wzg\u00f3rzu"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=a_VHAQAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "9trMNqUantU",
+            "id": "a_VHAQAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/a_VHAQAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Inez Kampman"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_KWPN.html?hl=&id=a_VHAQAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "839168038X",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788391680384",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=a_VHAQAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 98,
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "previewLink": "http://books.google.pl/books?id=a_VHAQAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=50&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "2016",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "subtitle": "selekcja do wyczynu",
+                "title": "Ko\u0144 KWPN"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=BSMavwEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "tRt9Mwzc9MU",
+            "id": "BSMavwEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/BSMavwEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Anna Czerska (t\u0142umacz)"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Niepos%C5%82uszny_ko%C5%84.html?hl=&id=BSMavwEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "8327474251",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788327474254",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=BSMavwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "pl",
+                "maturityRating": "NOT_MATURE",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "previewLink": "http://books.google.pl/books?id=BSMavwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=51&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "2018",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Niepos\u0142uszny ko\u0144"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=KxAsYAAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "r9CobshD0P4",
+            "id": "KxAsYAAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/KxAsYAAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Hans Peterson"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Magnus_Mateusz_i_ko%C5%84.html?hl=&id=KxAsYAAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:185557373",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=KxAsYAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 123,
+                "previewLink": "http://books.google.pl/books?id=KxAsYAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=52&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1975",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Magnus, Mateusz i ko\u0144"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=PPa5GwAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "z/JGS9fAqMA",
+            "id": "PPa5GwAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/PPa5GwAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Jan Nozdryn-P\u0142otnicki"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_sok%C3%B3lski.html?hl=&id=PPa5GwAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:69572106",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=PPa5GwAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 175,
+                "previewLink": "http://books.google.pl/books?id=PPa5GwAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=53&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1966",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Ko\u0144 sok\u00f3lski"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=8lxAAAAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "61Q9dG1Wvg4",
+            "id": "8lxAAAAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/8lxAAAAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Jacques Thomas-Bilstein"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/B%C5%82yskawica_dziki_ko%C5%84.html?hl=&id=8lxAAAAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "838529810X",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788385298106",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=8lxAAAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 16,
+                "previewLink": "http://books.google.pl/books?id=8lxAAAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=54&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1992",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "B\u0142yskawica - dziki ko\u0144"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=OHk3wwEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "1adRkmKzpn4",
+            "id": "OHk3wwEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/OHk3wwEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "canonicalVolumeLink": "https://books.google.com/books/about/Das_Masurenpferd.html?hl=&id=OHk3wwEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:916906650",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=OHk3wwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 185,
+                "previewLink": "http://books.google.pl/books?id=OHk3wwEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=55&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1959",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Das Masurenpferd"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=_Td9oAEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "DFYIlTZXQYY",
+            "id": "_Td9oAEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/_Td9oAEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Edward Skorkowski"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_arabski_w_Polsce.html?hl=&id=_Td9oAEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:864127812",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=_Td9oAEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 56,
+                "previewLink": "http://books.google.pl/books?id=_Td9oAEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=56&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1927",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "subtitle": "rys historyczno-biometryczny",
+                "title": "Ko\u0144 arabski w Polsce"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=vd9BAAAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "DHKCLYBuOWU",
+            "id": "vd9BAAAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/vd9BAAAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "C. S. Lewis"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_i_jego_ch%C5%82opiec.html?hl=&id=vd9BAAAACAAJ",
+                "categories": [
+                    "Narnia (Imaginary place)"
+                ],
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "8372781842",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788372781840",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=vd9BAAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 213,
+                "previewLink": "http://books.google.pl/books?id=vd9BAAAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=57&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "2005",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Ko\u0144 i jego ch\u0142opiec"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=EUshLQAACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "29QNdqgM8l4",
+            "id": "EUshLQAACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/EUshLQAACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Jeffrey Richard Nyquist"
+                ],
+                "averageRating": 5.0,
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_troja%C5%84ski.html?hl=&id=EUshLQAACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "8392630041",
+                        "type": "ISBN_10"
+                    },
+                    {
+                        "identifier": "9788392630043",
+                        "type": "ISBN_13"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=EUshLQAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "pl",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 167,
+                "previewLink": "http://books.google.pl/books?id=EUshLQAACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=58&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "2007",
+                "ratingsCount": 1,
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Ko\u0144 troja\u0144ski"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=b5abngEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "KIslyxGe4no",
+            "id": "b5abngEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/b5abngEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Stanis\u0142aw Schuch",
+                    "J\u00f3zef Markiewicz"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_i_je%C5%BAdziec.html?hl=&id=b5abngEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:254311939",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=b5abngEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "pl",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 22,
+                "previewLink": "http://books.google.pl/books?id=b5abngEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=59&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1967",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Ko\u0144 i je\u017adziec"
+            }
+        },
+        {
+            "accessInfo": {
+                "accessViewStatus": "NONE",
+                "country": "PL",
+                "embeddable": false,
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "publicDomain": false,
+                "quoteSharingAllowed": false,
+                "textToSpeechPermission": "ALLOWED",
+                "viewability": "NO_PAGES",
+                "webReaderLink": "http://play.google.com/books/reader?id=HozQwgEACAAJ&hl=&printsec=frontcover&source=gbs_api"
+            },
+            "etag": "o8Fi+w2u1v0",
+            "id": "HozQwgEACAAJ",
+            "kind": "books#volume",
+            "saleInfo": {
+                "country": "PL",
+                "isEbook": false,
+                "saleability": "NOT_FOR_SALE"
+            },
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/HozQwgEACAAJ",
+            "volumeInfo": {
+                "allowAnonLogging": false,
+                "authors": [
+                    "Tadeusz Kubiak"
+                ],
+                "canonicalVolumeLink": "https://books.google.com/books/about/Ko%C5%84_by_sie%CC%9C_u%C5%9Bmial.html?hl=&id=HozQwgEACAAJ",
+                "contentVersion": "preview-1.0.0",
+                "industryIdentifiers": [
+                    {
+                        "identifier": "OCLC:1037459392",
+                        "type": "OTHER"
+                    }
+                ],
+                "infoLink": "http://books.google.pl/books?id=HozQwgEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&source=gbs_api",
+                "language": "en",
+                "maturityRating": "NOT_MATURE",
+                "pageCount": 36,
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "previewLink": "http://books.google.pl/books?id=HozQwgEACAAJ&dq=%22intitle:Ko%C5%84%22&hl=&cd=60&source=gbs_api",
+                "printType": "BOOK",
+                "publishedDate": "1978",
+                "readingModes": {
+                    "image": false,
+                    "text": false
+                },
+                "title": "Ko\u0144 :by sie\u031c u\u015bmial"
+            }
+        }
+    ],
+    "kind": "books#volumes",
+    "totalItems": 60
+}

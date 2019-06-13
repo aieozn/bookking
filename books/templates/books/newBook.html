@@ -1,0 +1,14 @@
+{% extends "books/website.html" %}
+{% load static %}
+
+{% block extras %}
+<link rel="stylesheet" href="{% static 'style/new_book.css' %}">
+{% endblock %}
+
+{% block main %}
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Create">
+</form>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "books/website.html" %}
+{% load static %}
+
+
+{% block extras %}
+    <script src="{% static 'js/bookLoader.js' %}"></script>
+{% endblock %}
+
+{% block main %}
+<div class="row w-100">
+    <h1 class="w-100">{{title}}</h1>
+    
+    <div id="bookList" class="w-100">
+        
+    </div>
+
+    <div id="loadingBar" class="text-center">
+        <img id="loagingGif" src="{% static 'images/loading.gif' %}">
+    </div>
+</div>
+{% endblock %}

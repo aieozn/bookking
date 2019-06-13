@@ -1,0 +1,62 @@
+[contenteditable=true]:empty:before {
+    content: attr(placeholder);
+    display: block; /* For Firefox */
+}
+
+#keywords{
+    width: 100%;
+    border: 3px solid #333333;
+    font-size: 25px;
+    line-height: 40px;
+    padding: 14px;
+    padding-left: 10px;
+    color: #333333;
+}
+.searchButton{
+    padding: 14px;
+    font-size: 25px;
+    line-height: 40px;
+    border: 3px solid #666666;
+    text-align: center;
+    background-color: #3fa0f4;
+    color: white;
+    cursor:pointer;
+}
+.searchButton:hover{
+    border: 3px solid #333333;
+}
+#progress{
+    text-align: center;
+}
+h2{
+    margin-top: 100px;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+h1{
+    margin-top: 20px;
+}
+#processingStatus{
+    visibility: hidden;
+    width: 100%;
+}
+a:hover{
+    text-decoration: none;
+}
+.searchButton.checkButton{
+    background-color: #3fa0f4;
+    
+}
+#results{
+    display: none;
+}
+.option{
+    text-align: center;
+}
+.option{
+    line-height: 60px;
+}
+h3{
+    font-size: 25px;
+}
