@@ -25,6 +25,3 @@ If you see "something went wrong" during search, check if Google Books is availa
 ```
 example: https://www.googleapis.com/books/v1/volumes?q=Hobbit
 ```
-
-
-Categories and authors on the menu are displayed only if they have more than 2 elements
